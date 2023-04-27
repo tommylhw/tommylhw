@@ -12,8 +12,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;![AndroidStudio](https://img.shields.io/badge/-AndroidStudio.js-05122A?style=flat&logo=android)&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 
