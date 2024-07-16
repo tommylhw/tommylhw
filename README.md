@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop web / mobile applications.\
+💡 &nbsp;I am a Frontend Developer for web / mobile applications.\
 🎓 &nbsp;I'm currently studying Electroic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).\
 📲 &nbsp; I have experiences in AR / VR field, 3D modeling, software programming, mobile apps and website development.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
